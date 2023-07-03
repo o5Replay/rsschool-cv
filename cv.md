@@ -2,7 +2,7 @@
 
 # PERSONAL INFORMATION
 ### Name: Dmitriy Bekesh
-### Email: <a href="mailto:i@dbekesh.ru">i@dbekesh.ru</a>
+### Email: [i@dbekesh.ru](mailto:i@dbekesh.ru "i@dbekesh.ru")
 ### Contry: Russian Federation
 ===============================================================================
 
@@ -24,9 +24,24 @@ At the moment I am an IT specialist of the largest IT integrator company in the 
 # CODE
 
 ```
-ErrorDocument 404 /err404.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>404 - Page not found</title>
+</head>
+<body>
+
+<h1>Oops! That page can’t be found.</h1>
+<p>It looks like nothing was found at this location. </p>
+
+</body>
+</html>
 ```
 ===============================================================================
+
+# PROJECTS
+* Github educational: [https://github.com/LvbnhbqB](https://github.com/LvbnhbqB "Github educational")
+* Site system administrator: [https://hoztorgm.ru/](https://hoztorgm.ru/ "ХозторгМуром")
 
 # WORK EXPIRIENCE
 * June 2023 - Leading Enterprise Systems Specialist
