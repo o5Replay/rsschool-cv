@@ -90,6 +90,19 @@ body {
     color: #5d7260;
 }
 
+.image-cv {
+    float: left;
+}
+
+.text-cv {
+    margin-left: 210px;
+}
+
+.profession{
+    padding: 0 5px;
+    font-weight: 800;
+}
+
 pre {
     width: 100%;
     padding: 0;
