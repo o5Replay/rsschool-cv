@@ -4,22 +4,27 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
 table {
     border-collapse: collapse;
 }
+
 table.border td, table.border th {
     padding: 5px;
     border: 1px solid #c0c0c0;
 }
+
 table.border th {
     background: #e0e0e0;
 }
+
 code {
     background-color: #eee;
     border-radius: 3px;
     font-family: courier, monospace;
     padding: 0 3px;
 }
+
 pre {
     padding: 0.5rem;
     border: 1px solid #eee;
@@ -32,4 +37,31 @@ pre {
     max-height: 400px;
     overflow: auto;
     margin: 1rem 0;
+}
+
+.footer {
+    position: absolute;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    background-color: #2e42f3;
+    color: #fff;
+    overflow: hidden;
+}
+
+.container {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 10px;
+}
+
+.col { 
+
+    align-content: center;
 }
