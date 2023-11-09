@@ -2,7 +2,7 @@
 
 # PERSONAL INFORMATION
 ### Name: Dmitriy Bekesh
-### Email: [i@dbekesh.ru](mailto:i@dbekesh.ru "i@dbekesh.ru")
+### Email: [o5Replay@yandex.ru](mailto:o5Replay@yandex.ru "o5Replay@yandex.ru")
 ### Contry: Russian Federation
 ===============================================================================
 
@@ -13,7 +13,7 @@ At the moment I am an IT specialist of the largest IT integrator company in the 
 
 # SKILLS
 * OS: Microsoft Windows, Linux (Ubuntu, Debian, CentOS, Astra Linux), Android, iOS
-* Coding: HTML, CSS, XML, SQL
+* Coding: HTML, CSS, JS, XML, SQL
 * CMS: Joomla, Wordpress, Bitrix, Webasyst
 * Server OS: Microsoft Windows, Linux (Ubuntu, Debian, CentOS), Enterprise Linux от Red Hat и Free BSD.
 * Methodology: ITIL
@@ -40,7 +40,7 @@ At the moment I am an IT specialist of the largest IT integrator company in the 
 ===============================================================================
 
 # PROJECTS
-* Github educational: [https://github.com/LvbnhbqB](https://github.com/LvbnhbqB "Github educational")
+* Github educational: [https://github.com/o5Replay](https://github.com/o5Replay "Github educational")
 * Site system administrator: [https://hoztorgm.ru/](https://hoztorgm.ru/ "ХозторгМуром")
 
 # WORK EXPIRIENCE
@@ -62,6 +62,7 @@ At the moment I am an IT specialist of the largest IT integrator company in the 
 * January 2021 - RosatomTech - Operating system Astra Linux for users
 * July 2022 - Microsoft Parther - Supporting and Rtubleshooting Windows 10
 * March 2023 - Mimo - SQL
+* October 2023 - RSSchool - JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)
 
 ===============================================================================
 
