@@ -1,6 +1,6 @@
 # rsschool-cv
 JS/FE Pre-School 2023Q2
 <br>
-https://lvbnhbqb.github.io/rsschool-cv/
+https://o5Replay.github.io/rsschool-cv/
 <br>
-https://LvbnhbqB.github.io/rsschool-cv/cv
+https://o5Replay.github.io/rsschool-cv/cv
